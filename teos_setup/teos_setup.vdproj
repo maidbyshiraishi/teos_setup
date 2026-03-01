@@ -5080,6 +5080,12 @@
         "Entry"
         {
         "MsmKey" = "8:_EB491833C6CEDA7611422A264FC89F35"
+        "OwnerKey" = "8:_BB81554B6A20926E3733E33AA7EE499C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_EB491833C6CEDA7611422A264FC89F35"
         "OwnerKey" = "8:_8BBC000A43D84CEA0E1D9E4FF1A9025B"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -8562,8 +8568,8 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8E494A6EE75A42FD91CC294F55877867"
             {
-            "SourcePath" = "8:..\\..\\teos\\bin\\win\\data_teos_windows_x86_64\\mscordaccore_amd64_amd64_8.0.2325.60607.dll"
-            "TargetName" = "8:mscordaccore_amd64_amd64_8.0.2325.60607.dll"
+            "SourcePath" = "8:..\\..\\teos\\bin\\win\\data_teos_windows_x86_64\\mscordaccore_amd64_amd64_8.0.2426.7010.dll"
+            "TargetName" = "8:mscordaccore_amd64_amd64_8.0.2426.7010.dll"
             "Tag" = "8:"
             "Folder" = "8:_AC300A17DE5D4B72814F01C0E377E5C4"
             "Condition" = "8:"
@@ -9532,7 +9538,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:GodotSharp, Version=4.4.1.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:GodotSharp, Version=4.6.1.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_BB81554B6A20926E3733E33AA7EE499C"
@@ -11254,15 +11260,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:宇宙から来たメイド vs 鋼鉄の帝国"
-        "ProductCode" = "8:{8FC8DA94-2BBB-4560-A7FE-1F7B6CE4D288}"
-        "PackageCode" = "8:{0301296E-379E-4113-9629-E96572706D08}"
+        "ProductCode" = "8:{A6935F9C-0B4E-42DF-A5E7-6E6364699F56}"
+        "PackageCode" = "8:{87EA7077-DE49-4A94-A01B-8D84594AFEA5}"
         "UpgradeCode" = "8:{F68CB2DA-C068-42F9-B410-495C9470007F}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.9"
+        "ProductVersion" = "8:1.1.0"
         "Manufacturer" = "8:SHIRAISHI"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
