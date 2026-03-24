@@ -8568,8 +8568,8 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8E494A6EE75A42FD91CC294F55877867"
             {
-            "SourcePath" = "8:..\\..\\teos\\bin\\win\\data_teos_windows_x86_64\\mscordaccore_amd64_amd64_8.0.2426.7010.dll"
-            "TargetName" = "8:mscordaccore_amd64_amd64_8.0.2426.7010.dll"
+            "SourcePath" = "8:..\\..\\teos\\bin\\win\\data_teos_windows_x86_64\\mscordaccore_amd64_amd64_8.0.2526.11203.dll"
+            "TargetName" = "8:mscordaccore_amd64_amd64_8.0.2526.11203.dll"
             "Tag" = "8:"
             "Folder" = "8:_AC300A17DE5D4B72814F01C0E377E5C4"
             "Condition" = "8:"
