@@ -9538,7 +9538,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:GodotSharp, Version=4.6.2.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:GodotSharp, Version=4.6.3.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_BB81554B6A20926E3733E33AA7EE499C"
@@ -11260,15 +11260,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:宇宙から来たメイド vs 鋼鉄の帝国"
-        "ProductCode" = "8:{9018D48E-9CD6-4187-9236-2BFC7B34F42F}"
-        "PackageCode" = "8:{CFB4B4A7-CB96-40E7-946D-4C2B50F95BC6}"
+        "ProductCode" = "8:{AC8A19FC-50D5-4289-B18E-2D883775CEDF}"
+        "PackageCode" = "8:{DF2F0C45-C52F-4BCB-9BF4-80540B7F2690}"
         "UpgradeCode" = "8:{F68CB2DA-C068-42F9-B410-495C9470007F}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.1.4"
+        "ProductVersion" = "8:1.1.5"
         "Manufacturer" = "8:SHIRAISHI"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
