@@ -2512,6 +2512,12 @@
         "Entry"
         {
         "MsmKey" = "8:_89FDDDA28E9CAEC914768E5CE29B26AC"
+        "OwnerKey" = "8:_C851931972584E1AB916B52B531DFA48"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_89FDDDA28E9CAEC914768E5CE29B26AC"
         "OwnerKey" = "8:_BB81554B6A20926E3733E33AA7EE499C"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -11260,15 +11266,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:宇宙から来たメイド vs 鋼鉄の帝国"
-        "ProductCode" = "8:{AC8A19FC-50D5-4289-B18E-2D883775CEDF}"
-        "PackageCode" = "8:{DF2F0C45-C52F-4BCB-9BF4-80540B7F2690}"
+        "ProductCode" = "8:{F4A3F2D4-A93B-4F15-8B14-D219B6CB4E29}"
+        "PackageCode" = "8:{3974A237-2C13-4EFF-8BA0-7CD5F747CD12}"
         "UpgradeCode" = "8:{F68CB2DA-C068-42F9-B410-495C9470007F}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.1.5"
+        "ProductVersion" = "8:1.1.6"
         "Manufacturer" = "8:SHIRAISHI"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
